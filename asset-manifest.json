@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Assignment7-GiphyAPI/static/css/main.d8b561dd.chunk.css",
+    "main.js": "/Assignment7-GiphyAPI/static/js/main.c8f298d6.chunk.js",
+    "main.js.map": "/Assignment7-GiphyAPI/static/js/main.c8f298d6.chunk.js.map",
+    "runtime-main.js": "/Assignment7-GiphyAPI/static/js/runtime-main.06c97a10.js",
+    "runtime-main.js.map": "/Assignment7-GiphyAPI/static/js/runtime-main.06c97a10.js.map",
+    "static/js/2.c8b9e65e.chunk.js": "/Assignment7-GiphyAPI/static/js/2.c8b9e65e.chunk.js",
+    "static/js/2.c8b9e65e.chunk.js.map": "/Assignment7-GiphyAPI/static/js/2.c8b9e65e.chunk.js.map",
+    "static/js/3.1bf45df2.chunk.js": "/Assignment7-GiphyAPI/static/js/3.1bf45df2.chunk.js",
+    "static/js/3.1bf45df2.chunk.js.map": "/Assignment7-GiphyAPI/static/js/3.1bf45df2.chunk.js.map",
+    "index.html": "/Assignment7-GiphyAPI/index.html",
+    "static/css/main.d8b561dd.chunk.css.map": "/Assignment7-GiphyAPI/static/css/main.d8b561dd.chunk.css.map",
+    "static/js/2.c8b9e65e.chunk.js.LICENSE.txt": "/Assignment7-GiphyAPI/static/js/2.c8b9e65e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Assignment7-GiphyAPI/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.06c97a10.js",
+    "static/js/2.c8b9e65e.chunk.js",
+    "static/css/main.d8b561dd.chunk.css",
+    "static/js/main.c8f298d6.chunk.js"
+  ]
+}
